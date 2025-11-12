@@ -1,0 +1,23 @@
+,,,,,,,,,,,,,,,,,,,
+Element,Chloride,Nitrate,Sulfate,Carbonate,Bicarbonate,Cyanide,Phosphate,Hydroxide,Permanganate,Dichromate,Silicate,Fluoride,Bromide,Iodide,Sulfite,Hypochlorite,Chlorate,Perchlorate,Molybdate
+Li,Li Cl,Li NO3,Li2 SO4,Li2 CO3,Li HCO3,Li CN,Li3 PO4,Li OH,Li MnO4,Li2 Cr2O7,Li2 SiO3,Li F,Li Br,Li I,Li2 SO3,Li ClO,Li ClO3,Li ClO4,Li2 MoO4
+Na,Na Cl,Na NO3,Na2 SO4,Na2 CO3,Na HCO3,Na CN,Na3 PO4,Na OH,Na MnO4,Na2 Cr2O7,Na2 SiO3,Na F,Na Br,Na I,Na2 SO3,Na ClO,Na ClO3,Na ClO4,Na2 MoO4
+K,K Cl,K NO3,K2 SO4,K2 CO3,K HCO3,K CN,K3 PO4,K OH,K MnO4,K2 Cr2O7,K2 SiO3,K F,K Br,K I,K2 SO3,K ClO,K ClO3,K ClO4,K2 MoO4
+Rb,Rb Cl,Rb NO3,Rb2 SO4,Rb2 CO3,Rb HCO3,Rb CN,Rb3 PO4,Rb OH,Rb MnO4,Rb2 Cr2O7,Rb2 SiO3,Rb F,Rb Br,Rb I,Rb2 SO3,Rb ClO,Rb ClO3,Rb ClO4,Rb2 MoO4
+Cs,Cs Cl,Cs NO3,Cs2 SO4,Cs2 CO3,Cs HCO3,Cs CN,Cs3 PO4,Cs OH,Cs MnO4,Cs2 Cr2O7,Cs2 SiO3,Cs F,Cs Br,Cs I,Cs2 SO3,Cs ClO,Cs ClO3,Cs ClO4,Cs2 MoO4
+Mg,Mg Cl2,Mg (NO3)2,Mg SO4,Mg CO3,Mg (HCO3)2,Mg (CN)2,Mg3 (PO4)2,Mg (OH)2,Mg (MnO4)2,Mg Cr2O7,Mg SiO3,Mg F2,Mg Br2,Mg I2,Mg SO3,Mg (ClO)2,Mg (ClO3)2,Mg (ClO4)2,Mg MoO4
+Be,Be Cl2,Be (NO3)2,Be SO4,Be CO3,Be (HCO3)2,Be (CN)2,Be3 (PO4)2,Be (OH)2,Be (MnO4)2,Be Cr2O7,Be SiO3,Be F2,Be Br2,Be I2,Be SO3,Be (ClO)2,Be (ClO3)2,Be (ClO4)2,Be MoO4
+Ca,Ca Cl2,Ca (NO3)2,Ca SO4,Ca CO3,Ca (HCO3)2,Ca (CN)2,Ca3 (PO4)2,Ca (OH)2,Ca (MnO4)2,Ca Cr2O7,Ca SiO3,Ca F2,Ca Br2,Ca I2,Ca SO3,Ca (ClO)2,Ca (ClO3)2,Ca (ClO4)2,Ca MoO4
+Sr,Sr Cl2,Sr (NO3)2,Sr SO4,Sr CO3,Sr (HCO3)2,Sr (CN)2,Sr3 (PO4)2,Sr (OH)2,Sr (MnO4)2,Sr Cr2O7,Sr SiO3,Sr F2,Sr Br2,Sr I2,Sr SO3,Sr (ClO)2,Sr (ClO3)2,Sr (ClO4)2,Sr MoO4
+Ba,Ba Cl2,Ba (NO3)2,Ba SO4,Ba CO3,Ba (HCO3)2,Ba (CN)2,Ba3 (PO4)2,Ba (OH)2,Ba (MnO4)2,Ba Cr2O7,Ba SiO3,Ba F2,Ba Br2,Ba I2,Ba SO3,Ba (ClO)2,Ba (ClO3)2,Ba (ClO4)2,Ba MoO4
+Pb,Pb Cl2,Pb (NO3)2,Pb SO4,Pb CO3,Pb (HCO3)2,Pb (CN)2,Pb3 (PO4)2,Pb (OH)2,Pb (MnO4)2,Pb Cr2O7,Pb SiO3,Pb F2,Pb Br2,Pb I2,Pb SO3,Pb (ClO)2,Pb (ClO3)2,Pb (ClO4)2,Pb MoO4
+Sn,Sn Cl2,Sn (NO3)2,Sn SO4,Sn CO3,Sn (HCO3)2,Sn (CN)2,Sn3 (PO4)2,Sn (OH)2,Sn (MnO4)2,Sn Cr2O7,Sn SiO3,Sn F2,Sn Br2,Sn I2,Sn SO3,Sn (ClO)2,Sn (ClO3)2,Sn (ClO4)2,Sn MoO4
+Fe,Fe Cl2,Fe (NO3)3,Fe SO4,,,,,,,Fe2 (Cr2O7)3,,,Fe Br2,Fe I2,,,Fe (ClO3)3,Fe (ClO4)2,
+Ru,Ru Cl2,Ru (NO3)3,Ru SO4,,,,,,,Ru2 (Cr2O7)3,,,Ru Br2,Ru I2,,,Ru (ClO3)3,Ru (ClO4)2,
+Os,Os Cl2,Os (NO3)3,Os SO4,,,,,,,Os2 (Cr2O7)3,,,Os Br2,Os I2,,,Os (ClO3)3,Os (ClO4)2,
+Cu,Cu Cl2,Cu (NO3)2,Cu SO4,,,,,,Cu (MnO4)2,Cu Cr2O7,,Cu F2,Cu Br2,,,,Cu (ClO3)2,Cu (ClO4)2,
+Ag,Ag Cl2,Ag (NO3)2,Ag SO4,,,,,,Ag (MnO4)2,Ag Cr2O7,,Ag F2,Ag Br2,,,,Ag (ClO3)2,Ag (ClO4)2,
+Au,Au Cl2,Au (NO3)2,Au SO4,,,,,,Au (MnO4)2,Au Cr2O7,,Au F2,Au Br2,,,,Au (ClO3)2,Au (ClO4)2,
+Al,Al Cl3,Al (NO3)3,Al2 (SO4)3,,,Al (CN)3,,,Al (MnO4)3,Al2 (Cr2O7)3,,,Al Br3,Al I3,Al2 (SO3)3,Al (OCl)3,Al (ClO3)3,Al (ClO4)3,
+Ga,Ga Cl3,Ga (NO3)3,Ga2 (SO4)3,,,Ga (CN)3,,,Ga (MnO4)3,Ga2 (Cr2O7)3,,,Ga Br3,Ga I3,Ga2 (SO3)3,Ga (OCl)3,Ga (ClO3)3,Ga (ClO4)3,
+In,In Cl3,In (NO3)3,In2 (SO4)3,,,In (CN)3,,,In (MnO4)3,In2 (Cr2O7)3,,,In Br3,In I3,In2 (SO3)3,In (OCl)3,In (ClO3)3,In (ClO4)3,
